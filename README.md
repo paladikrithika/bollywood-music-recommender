@@ -26,7 +26,5 @@ This project is a **Streamlit-based web app** that recommends Bollywood songs ba
 - **TF-IDF Vectorizer**
 - **Cosine Similarity**
 
----
 
-## 📁 Folder Structure
 
